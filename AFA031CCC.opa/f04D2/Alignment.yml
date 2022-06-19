@@ -1,0 +1,58 @@
+segment_sources:
+  I37BFEAAD:
+    type: origin_type
+    relation: translation
+    language: en
+  I6B4268D2:
+    type: origin_type
+    relation: translation
+    language: de
+  I87B47847:
+    type: origin_type
+    relation: translation
+    language: es
+  ICE24A666:
+    type: origin_type
+    relation: translation
+    language: fr
+  I3C026EA1:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0077b329007943d59a7760bfdc0613fd:
+    I37BFEAAD: 0c263bc02bd74646aa18e0ae6bcf7ab6
+    I6B4268D2: 781316bee3394ba083bf5d3d6aba2387
+    I87B47847: 0310de3772ec4f56874edafdd67f44e6
+    ICE24A666: a820d2ff94ba40e7b188f8663d8922ed
+    I3C026EA1: f361e4f4fa13471380dd2e0968daed25
+  2003ebb95235466897ea9c973e027c63:
+    I37BFEAAD: 4126df668cd3455baf2305deb64f3f22
+    I6B4268D2: 92bf52746bbb4c9c977ddabc6a379c37
+    I87B47847: 6ccc97e530044198a9514b31fc110683
+    ICE24A666: 2354b537dee64da99e1215d44e59d56d
+    I3C026EA1: f0b1d082cd034082bd5f2e4dc474e7c8
+  15b94f82cdd84548ab3b6c3efcea1a4d:
+    I37BFEAAD: 77ac24b0c93842669bf0867484428f44
+    I6B4268D2: c670bba592ec4659a497034c168c5888
+    I87B47847: 97adc026243447eda900daa4446345e2
+    ICE24A666: e9760652f99d453baf22cad1cb3dab95
+    I3C026EA1: d5441af0e02d4c80aa7bd69f38812066
+  ad85587a90714b889f86b52b7b03dd42:
+    I37BFEAAD: b77c3ca5cd69421f84abb8f1bc0c09eb
+    I6B4268D2: 604bda0911a94d6ea1fed177bfc200d5
+    I87B47847: 569ba11a54a34631b846db0981d0664d
+    ICE24A666: c7704b3350b34636b95efe6bc5de137e
+    I3C026EA1: 23e8ff4f872d4c0db7a8adcb5333c243
+  4134a84802b848c3949b2a8ebe1aa328:
+    I37BFEAAD: ea523b2ccbcd44478484a21300d62511
+    I6B4268D2: 0a9a300b21614705b8d36684d1ed7292
+    I87B47847: f27140d1f079432b988a37ef0d9d62a8
+    ICE24A666: eabc72c22e284b9db1d22ad61b33ab63
+    I3C026EA1: f46ea53992904407b83acd4f8259ac30
+  f6a39e73e3cd4eb0bed8062e25085c73:
+    I37BFEAAD: 4de8bcbf7b744735a176fe997b89e5d3
+    I6B4268D2: 99fee4d8ae7742fea40d1570ed171605
+    I87B47847: a6a043c8a844446dbc70c75a09bc18ec
+    ICE24A666: 1735faa9e06f4950b05954f22bc539aa
+    I3C026EA1: 8d172c7aa3134fc0997884bc25508d2b
